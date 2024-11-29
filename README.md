@@ -24,8 +24,8 @@ cd dns-lookup-cli
 
 ### 2. Build and Install
 Make sure you have Go installed on your system.
-```bash
-go build
+```
+bash~go build
 go install
 ```
 
@@ -97,3 +97,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 If you like this project, please give it a ⭐️ and share it with your peers! 😊
 ```
+https://github.com/Anirudh12345678/dnslookup-cli
+
